@@ -27,7 +27,6 @@
   <a href="https://www.linkedin.com/in/cl%C3%A1udio-eduardo-magalh%C3%A3es-de-castro-9a5715237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
    
    
-   ![snake gif](https://github.com/eduxce/eduxce/blob/output/github-contribution-grid-snake.svg)
    
    
   </div>
