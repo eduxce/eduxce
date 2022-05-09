@@ -1,34 +1,22 @@
-<h1><strong>Olá Mundo!</strong></h1>
-🌎 <em>Olá, sou estudante de tecnologia da informação focada no Web development</em> <strong>especificamente no front-end.</strong>
-</p>
-
-<p align="left">
- 🧬 
-Habilidades: <strong> Sou autodidata, dedicada, comunicativa. </strong>
+<h1><strong>Olá Mundo!</strong> 🌎 </h1>
+<em>Me chamo Eduardo, atualmente estou estudando desenvolvimento web<strong> focado no front-end e full-stack.</strong></em>
 </p>
  
 <p align="left">
- ⚡ Pontos fortes: <strong>HTML5, CSS3, SQL, Bootstrap, Python. </strong> 
+ 💻 Experiência: <strong>HTML5, CSS3, SQL, Java_Script, Python, PHP, Java.</strong> 
 </p> 
 
 <p align="left"> 
 
 <p align="left">
- 📚 Studying: <strong>Javascript, PowerBI, Cloud Foundations, C#.</strong>
-</p>
-
-<p align="left">
- 🖥️ Ferramentas: <strong>Figma, Git, GitHub, MySQL Workbench, WordPress, VSCode. </strong> 
-</p> 
- 
-<p align="left">
- 📚 Estudante: <strong>Finalizando o ensino médio profissionalizante.</strong>
+ 📚 Estudando: <strong>Java, POO, Cloud Foundations, WordPress, PowerBI.</strong>
 </p>
  
+ 
 <p align="left">
- 📧 <strong>Você pode me encontrar aqui:</strong> ⤵️
+ 💼 Cursando: <strong>Ensino Médio profissionalizante - conclusão em 2022.</strong>
 </p>
-
+ 
   ###
 
 <div align="center" style="display: inline_block"><br>
@@ -49,7 +37,12 @@ Habilidades: <strong> Sou autodidata, dedicada, comunicativa. </strong>
 </div>
    
   ###
-  
+ 
+ <p align="center">
+ <strong>CONTATOS:</strong> 
+</p>
+
+ 
  <div> 
   <a href="https://instagram.com/eduxs.ce" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:claudioeduardo.mcastro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
