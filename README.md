@@ -1,5 +1,32 @@
-### Olá! Eu sou Cláudio Eduardo
+🌎 <em>Olá, sou estudante de tecnologia da informação focada no Web development</em> <strong>especificamente no front-end.</strong>
+</p>
 
+<p align="left">
+ 🧬 
+Habilidades: <strong> Sou autodidata, dedicada, comunicativa. </strong>
+</p>
+ 
+<p align="left">
+ ⚡ Pontos fortes: <strong>HTML5, CSS3, SQL, Bootstrap, Python. </strong> 
+</p> 
+
+<p align="left"> 
+
+<p align="left">
+ 📚 Studying: <strong>Javascript, PowerBI, Cloud Foundations, C#.</strong>
+</p>
+
+<p align="left">
+ 🖥️ Ferramentas: <strong>Figma, Git, GitHub, MySQL Workbench, WordPress, VSCode. </strong> 
+</p> 
+ 
+<p align="left">
+ 📚 Estudante: <strong>Finalizando o ensino médio profissionalizante.</strong>
+</p>
+ 
+<p align="left">
+ 📧 <strong>Você pode me encontrar aqui:</strong> ⤵️
+</p>
 
   ###
 
