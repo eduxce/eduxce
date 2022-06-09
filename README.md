@@ -5,7 +5,7 @@
 <em>Me chamo Eduardo, atualmente estou estudando desenvolvimento web<strong> focado no front-end e full-stack.</strong></em>
 </p>
 <p align="left">
- 💻 Experiência: <strong>HTML5, CSS3, SQL, Java_Script, Python, PHP, Java, POO.</strong> 
+ 💻 Experiência: <strong>HTML5, CSS3, SQL, Java_Script, Python, PHP, Java, POO, Lua.</strong> 
 </p> 
 
 <p align="left"> 
