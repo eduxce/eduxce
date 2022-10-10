@@ -53,7 +53,7 @@
  ---
 
  
- <div align="left"> 
+ <div align="center"> 
   <h3>
  <strong>Contatos</strong>
   </h3>
@@ -65,7 +65,7 @@
 
    ###
    
-   <div align="right">
+   <div align="center">
 <h3>Total de visitas no perfil:</h3>
 <p>
     <img src="https://profile-counter.glitch.me/eduxce/count.svg"/>
