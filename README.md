@@ -22,7 +22,6 @@
  💼 Cursando: <strong>Ensino Médio profissionalizante - conclusão em 2022.</strong>
 </p>
  
- ---
  
   ## <h1 align="center">Experiências</h1>
   
