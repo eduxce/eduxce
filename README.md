@@ -1,9 +1,12 @@
-<h1><strong>Olá Mundo!</strong> 🌎 </h1>
+## <h1><strong>Olá Mundo!</strong> 🌎 </h1>
  <div align="center">
  <img src="https://media3.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif?cid=ecf05e47vako50ht5m5ep0b8bmoxhig0z456zna1qfmidtv9&rid=giphy.gif&ct=g">
  </div>
-<em>Me chamo Eduardo, atualmente estou estudando desenvolvimento web<strong> focado no front-end e full-stack.</strong></em>
+> <em>Me chamo Eduardo, atualmente estou estudando desenvolvimento web<strong> focado no front-end e full-stack.</strong></em>
 </p>
+
+----
+
 <p align="left">
  💻 Experiência: <strong>HTML5, CSS3, SQL, Java_Script, Python, PHP, Java, POO, Lua.</strong> 
 </p> 
