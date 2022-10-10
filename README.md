@@ -24,7 +24,7 @@
  
  ---
  
-  ### <h1 align="center">Experiências</h1>
+  ### <h2 align="center">Experiências</h2>
   
 
 <div align="center" style="display: inline_block"><br>
