@@ -54,9 +54,9 @@
 
  
  <div align="center"> 
-  <h2>
+  <h3>
  <strong>Contatos</strong>
-  </h2>
+  </h3>
   <a href="https://instagram.com/eduxs.ce" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:claudioeduardo.mcastro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cl%C3%A1udio-eduardo-magalh%C3%A3es-de-castro-9a5715237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
@@ -66,10 +66,10 @@
    ###
    
    <div align="center">
-<h2>Total de visitas no perfil:</p>
+<h3>Total de visitas no perfil:</h3>
 <p>
     <img src="https://profile-counter.glitch.me/eduxce/count.svg"/>
-</h2>
+</p>
     
     
  ###
