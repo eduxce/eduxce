@@ -58,7 +58,8 @@
  <strong>Contatos</strong>
   </h3>
   <a href="https://instagram.com/eduxs.ce" target="_blank"> <img height="40" width="40" src = "https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"target =" _ blank "></a>
-  <a href = "mailto:claudioeduardo.mcastro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:claudioeduardo.mcastro@gmail.com"><img height="40" width="40" src = 
+       "https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667"target =" _ blank "></a>
   <a href="https://www.linkedin.com/in/cl%C3%A1udio-eduardo-magalh%C3%A3es-de-castro-9a5715237/" target="_blank"> <img  height="40" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
      target =" _ blank "></a>   
    
