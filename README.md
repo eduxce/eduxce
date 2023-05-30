@@ -19,7 +19,7 @@
  
  
 <p align="left">
- 💼 Cursando: <strong>Ensino Médio profissionalizante - conclusão em 2022.</strong>
+ 💼 Curso: <strong>Ensino Médio profissionalizante - concluído em 2022.</strong>
 </p>
  
  ---
